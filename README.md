@@ -1,6 +1,6 @@
 # Fruits-360: A dataset of images containing fruits, vegetables, nuts and seeds #
 
-## Version: 2025.03.11.1 ##
+## Version: 2026.02.08.0 ##
 
 ## Branch: multi ##
 
@@ -24,11 +24,7 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 ## How the Fruits-360 dataset was created ##
 
-Pictures from the [test-multiple_fruits](test-multiple_fruits) folder were taken with Nexus 5X phone (2017-2020) and iPhone 11 (2020-).
-
-## History ##
-
-2023.12.30 - Official Github repository is now [Fruits-360 on Github](https://github.com/fruits-360)
+Pictures from the [test-multiple_fruits](test-multiple_fruits) folder were taken with Nexus 5X phone (2017-2020), iPhone 11 (2020-2025), iPhone 14 (2025-).
 
 ## License ##
 
