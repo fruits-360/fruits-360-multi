@@ -8,7 +8,7 @@ Multiple fruits, vegetables, nuts, seeds in the same picture.
 
 ## Dataset properties ##
 
-Total number of images: 812.
+Total number of images: 919.
 
 ## Alternate download ##
 
